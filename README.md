@@ -1,7 +1,9 @@
 # DSCI 552 — Homework 2
 
 Name : Mohammad Ayaan Khan
+
 USC ID: 4147952900
+
 Email ID : mkhan736@usc.edu
 
 Combined Cycle Power Plant regression analysis, plus ISLR exercises 2.4.1 and 2.4.7.
